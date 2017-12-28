@@ -1,7 +1,4 @@
 /***************************************
-* Alex Phomthavong
-* Programming Project 2 - Hangman
-* Create a Hangman game to showcase what we learned
 * Input = User guesses, ints and chars
 * Output = Game answers, strings and chars
 ***************************************/
